@@ -1,0 +1,66 @@
+@import url('../../styles/variaveis.module.css');
+
+.cabecalho {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    margin-bottom: 16%; 
+}
+
+.cabecalho img {
+    width: 60%;
+}
+
+.secao__texto {
+    width: 86%;
+    margin: auto;
+}
+
+.secao__texto h1 {
+    font-family: 'gotham-bold';
+    font-size: 46px;
+    line-height: 56px;
+    color: var(--dark-grey);
+}
+
+.secao__texto .secao__texto__linha {
+    background-color: var(--dark-grey);
+    width: 130px;
+    padding: 8px;
+    margin: 26px 0 34px 0;
+}
+
+.secao__texto p {
+    font-size: 20px;
+    color: var(--dark-grey);
+    font-family: 'gotham-book';
+    text-justify: auto;
+    line-height: 30px;
+}
+
+@media (min-width: 1200px) {
+    .cabecalho {
+        height: 250px;
+        padding: 15px;
+        margin-bottom: 8%;
+    }
+
+    .cabecalho img {
+        width: 25%;
+    }
+    
+    .secao__texto h1 {
+        font-size: 50px;
+    }
+
+    .secao__texto .secao__texto__linha {
+        margin: 28px 0 40px 0;
+    }
+
+    .secao__texto p {
+        font-size: 24px;
+    }
+}

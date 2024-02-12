@@ -1,0 +1,51 @@
+@import url('../../styles/variaveis.module.css');
+
+.container {
+    background-color: var(--legenda-grey);
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.containers {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+
+.containers h1 {
+    font-family: 'gotham-bold';
+    font-size: 26px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.containerImg {
+    display: flex;
+    text-align: center;
+}
+
+.containerRecommendedRequired {
+    display: flex;
+    flex-direction: column;
+}
+
+.containerImg .containerRecommendedRequired img {
+    width: 60%;
+    margin: auto;
+}
+
+.containerImg .containerRecommendedRequired h2 {
+    font-size: 18px;
+    font-family: 'gotham-book';
+    margin-top: 10px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        display: flex;
+        width: 1190px;
+        gap: 10px;
+    }
+}

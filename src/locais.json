@@ -1,0 +1,3395 @@
+{
+    "current_country_id": 1,
+    "locations": [
+      {
+        "id": 10998878976097,
+        "title": "Dom Severino",
+        "content": "Av. Dom Severino, 1733 , Fátima Teresina, PI",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976096,
+        "title": "Teresina Shopping",
+        "content": "Av. Raul Lopes, 1000 , Noivos Teresina, PI",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976092,
+        "title": "GV Shopping",
+        "content": "Rua Sete de Setembro, 3500 , Centro Governador Valadares, MG",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 23h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976091,
+        "title": "Avenida Mascote",
+        "content": "Av. Mascote, 159 , Vila Mascote São Paulo, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976090,
+        "title": "Litoral Plaza",
+        "content": "Avenida Ayrton Senna da Silva, 1511 , Tude Bastos (Sítio do Campo) Praia Grande, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 19h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976089,
+        "title": "Rui Barbosa",
+        "content": "Avenida Rui Barbosa, 2727 , Joaquim Távora Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976088,
+        "title": "Parnamirim Centro",
+        "content": "Avenida Brigadeiro Everaldo Breves, 780 , Centro Parnamirim, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976086,
+        "title": "Cambuí II",
+        "content": "Rua Quatorze de Dezembro, 483 , Centro Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976084,
+        "title": "Parque Shopping Bahia",
+        "content": "Avenida Santos Dumont, 4360 , Centro Lauro de Freitas, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976083,
+        "title": "Bauru",
+        "content": "Av. Getúlio Vargas, 25-16 , Vila Aviação Bauru, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "15h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "10h às 16h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976081,
+        "title": "Limeira",
+        "content": "Avenida Campinas, 50 , Vila Cidade Jardim Limeira, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 14h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976079,
+        "title": "Presidente Prudente",
+        "content": "Rua Siqueira Campos, 1545 , Vila Roberto Presidente Prudente, SP",
+        "opened": false,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976078,
+        "title": "Frei Aureliano",
+        "content": "Rua Frei Aureliano Grottamari, 679 , Capuchinhos Feira de Santana, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976077,
+        "title": "Fraga Maia",
+        "content": "Av. Francisco Fraga Maia, 4727 , Cidade Nova Feira de Santana, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "05h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976076,
+        "title": "Camaçari",
+        "content": "Rodovia BA-535 , Polo Petroquímico Camaçari, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976075,
+        "title": "Maracanaú",
+        "content": "Avenida Carlos Jereissati, 100 , Jereissati II Maracanaú, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 22h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976074,
+        "title": "Paulínia",
+        "content": "Rua Bolívia, 60 , Jardim América Paulínia, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "10h às 14h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976073,
+        "title": "Araçatuba",
+        "content": "Av. Joaquim Pompeu de Toledo, 601 , Vila Estádio Araçatuba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 08h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Obs.:",
+            "hour": "Obrigatório o uso de luvas descartáveis."
+          }
+        ]
+      },
+      {
+        "id": 10998878976072,
+        "title": "Jacareí",
+        "content": "Av. Sen. Joaquim Miguel M. de Siqueira , Jardim Pereira do Amparo Jacareí, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h30 às 08h30"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 14h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976071,
+        "title": "Araras",
+        "content": "Av. Dona Renata, 2954 , Parque Santa Cândida Araras, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 09h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 12h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "13h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976070,
+        "title": "Trio",
+        "content": "Avenida Presidente Vargas, 1265 , Jardim São Luiz Ribeirão Preto, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 00h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976069,
+        "title": "Neo",
+        "content": "Avenida Maria de Jesus Condeixa, 600 , , Jardim Palma Travassos Ribeirão Preto, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976068,
+        "title": "Shopping Santa Úrsula",
+        "content": "Rua São José, 933 , Centro Ribeirão Preto, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976067,
+        "title": "Mogi Guaçu",
+        "content": "Av. Mogi Mirim, 210 , Centro Mogi Guaçu, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "13h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "13h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976066,
+        "title": "Jundiaí Shopping",
+        "content": "Avenida Nove de Julho, 3333 , Anhangabaú Jundiaí, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976065,
+        "title": "Americana",
+        "content": "Avenida Brasil, 1955 , Jardim São Paulo Americana, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 12h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976064,
+        "title": "Santa Bárbara D&#8217,Oeste",
+        "content": "Rua do Osmio, 975 , Vila Mollon IV Santa Bárbara d&#8217,Oeste, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 09h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 14h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976062,
+        "title": "Rio Claro",
+        "content": "Rua 14, 289 , Estádio Rio Claro, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976061,
+        "title": "Av. 31 de Março",
+        "content": "Avenida Trinta e Um de Março, 1533 , Paulicéia Piracicaba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976060,
+        "title": "Shopping Piracicaba",
+        "content": "Av. Limeira, 722 - Areião, Piracicaba - SP",
+        "opened": false,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976059,
+        "title": "Marília",
+        "content": "Av. Tiradentes, 1048 , Quadra 2 , Lote B , Fragata Marília, SP",
+        "opened": false,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "15h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "10h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976058,
+        "title": "Hortolândia",
+        "content": "Rua José Camilo de Camargo, 05 , Loteamento Remanso Campineiro Hortolândia, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 09h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976057,
+        "title": "Barão Geraldo",
+        "content": "Avenida Santa Isabel, 1030 , Vila Santa Isabel Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "10h às 14h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976056,
+        "title": "Sumaré",
+        "content": "Praça da República, 148 , Centro Sumaré, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "10h às 16h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976055,
+        "title": "Taubaté",
+        "content": "Avenida Itália, 850 , Jardim das nações Taubaté, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 09h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "18h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976054,
+        "title": "Aquarius",
+        "content": "Av. Comendador Vicente de Paulo Penido, 251 , Parque Res. Aquarius São José dos Campos, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "14h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976053,
+        "title": "Satélite",
+        "content": "R. Pedro Tursi, 180 , Jardim Satélite São José dos Campos, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "07h às 13h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976052,
+        "title": "Parque das Bandeiras",
+        "content": "Av. John Boyd Dunlop, 3900 , Jardim Ipaussurama Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976051,
+        "title": "Prado Boulevard",
+        "content": "Avenida Washington Luís, 2480 , Vila Marieta Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976050,
+        "title": "Abolição",
+        "content": "Rua da Abolição, 2013 , Ponte Preta Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976049,
+        "title": "Campinas Shopping",
+        "content": "Rua Jacy Teixeira Camargo, 940 , Jardim do Lago Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976048,
+        "title": "Jorge Krug",
+        "content": "Rua Jorge Krug, 177 , Guanabara Campinas, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976047,
+        "title": "Maxi Shopping",
+        "content": "Av. Antônio Frederico Ozanan, 6000 , Jardim Liberdade Jundiaí, SP",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976046,
+        "title": "Rua Quinze de Novembro",
+        "content": "Rua Quinze de Novembro, 1.000 , Centro Jundiaí, SP",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976045,
+        "title": "Center Vale",
+        "content": "Av. Deputado Benedito Matarazzo, 9403 , Jardim Oswaldo Cruz São José dos Campos, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "14h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976044,
+        "title": "Campolim",
+        "content": "Avenida Antônio Carlos Comitre, 2051 , Parque Campolim Sorocaba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976043,
+        "title": "Pereira Inácio",
+        "content": "Avenida Comendador Pereira Inácio, 820 , Jardim Vergueiro Sorocaba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976042,
+        "title": "Shopping Cidade Sorocaba",
+        "content": "Av. Itavuvu, 3365 , Jardim Santa Cecília Sorocaba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976041,
+        "title": "Pátio Cianê",
+        "content": "Av. Doutor Afonso Vergueiro, 823 , Centro Sorocaba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976039,
+        "title": "Indaiatuba",
+        "content": "Rua das Primaveras, 1050 , Jardim Pompéia Indaiatuba, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h30 às 08h30"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "14h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976038,
+        "title": "Matatu",
+        "content": "Rua Barros Falcão, 453 , Matatu Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976037,
+        "title": "Graça",
+        "content": "Rua Oito de Dezembro, 525 , Graça Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976036,
+        "title": "Shopping Piedade",
+        "content": "Rua Conselheiro Junqueira Ayres, 165 , Barris Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "08h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976035,
+        "title": "Salvador Norte Shopping",
+        "content": "Rodovia BA-305 , São Cristóvão Salvador, BA",
+        "opened": false,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976034,
+        "title": "Itaigara",
+        "content": "R. Wanderley Pinho, 527 , Itaigara Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976033,
+        "title": "Avenida Jorge Amado",
+        "content": "Avenida Jorge Amado, 1834 , Imbuí Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976032,
+        "title": "Imbuí I",
+        "content": "Rua dos Colibris, 337 , Imbuí Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976031,
+        "title": "Costa Azul",
+        "content": "R. Prof. Lourival Pimenta Bastos, 368 , Costa Azul Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976030,
+        "title": "Caminho das Árvores",
+        "content": "Alameda das Espatódeas, 138 , Caminho das Árvores Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976029,
+        "title": "Cabula",
+        "content": "Rua Silveira Martins, 165 , Cabula Salvador, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976028,
+        "title": "Campos dos Goytacazes",
+        "content": "Rua Barão de Miracema, 287 , Centro Campos dos Goytacazes, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976023,
+        "title": "Búzios",
+        "content": "Rua das Pedras, 73 , Dantas Armação dos Búzios, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "09h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976022,
+        "title": "Itabuna",
+        "content": "Avenida Aziz Maron, s/n , Jardim Vitória Itabuna, BA",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "05h às 19h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976021,
+        "title": "Volta Redonda",
+        "content": "Av. Amaral Peixoto, 555 , Centro Volta Redonda, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976019,
+        "title": "Caruaru",
+        "content": "Rua Adjar da Silva Casé, 800 , Indianópolis Caruaru, PE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976013,
+        "title": "Mossoró",
+        "content": " Rua João da Escóssia, 1102 , Nova Betânia Mossoró, RN ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976012,
+        "title": "Ville Roy",
+        "content": "Avenida Ville Roy, 1544 (Dentro do Roraima Garden Shopping) , Caçari Boa Vista, RR",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976011,
+        "title": "João Alencar",
+        "content": "Av. Joao Alencar, 2181 , Cauamé Boa Vista, RR",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976010,
+        "title": "Tirol",
+        "content": "Avenida Prudente Morais, 777 , Tirol Natal, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976009,
+        "title": "Avenida Roberto Freire",
+        "content": "Avenida Engenheiro Roberto Freire, 2020 , Capim Macio Natal, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976008,
+        "title": "Partage Norte Shopping Natal",
+        "content": "Av. Dr. João Medeiros Filho , Potengi Natal, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976007,
+        "title": "Midway",
+        "content": "Avenida Bernardo Vieira, 3775 , Tirol Natal, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976006,
+        "title": "Shopping Grande Rio",
+        "content": "Rua Maria Soares Sendas, 111 , Parque Barreto São João de Meriti, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976005,
+        "title": "Vilar dos Teles",
+        "content": "Av. Automóvel Clube, 2487 , Vilar dos Teles São João de Meriti, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976004,
+        "title": "Maceió Shopping",
+        "content": " Av. Comendador Gustavo Paiva, 2990 , Mangabeiras Maceió, AL ",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976003,
+        "title": "Palato",
+        "content": "Avenida Fernandes Lima, 548 , Farol Maceió, AL",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976002,
+        "title": "Pátio Maceió",
+        "content": "Avenida Menino Marcelo, 3800 , Cidade Universitária Maceió, AL",
+        "opened": true,
+        "mask": "recommended",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976998,
+        "title": "Candelária",
+        "content": "Rodovia BR-101, S/N , km 2 , Candelária Natal, RN",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976995,
+        "title": "Largo do Taboão",
+        "content": "Pça. Nicola Vivilechio, 103 , Jardim Bom Tempo Taboão da Serra, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976994,
+        "title": "Taboão da Serra",
+        "content": "Rodovia Régis Bittencourt, km 271,5 , Taboão da Serra, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 10h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976993,
+        "title": "Manaíra Shopping",
+        "content": "Av. Governador Flávio Ribeiro Coutinho, 805 , Manaíra Shopping , 3º andar João Pessoa, PB",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976992,
+        "title": "São Carlos",
+        "content": "Av. Francisco Pereira Lopes, 1701 , Jardim Bandeirantes São Carlos, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h30 às 09h30"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 15h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "09h às 15h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976991,
+        "title": "Jardim das Américas",
+        "content": "Av. Tancredo de Almeida Neves, 165 , Tancredo Neves Cuiabá, MT",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976990,
+        "title": "Rubens de Mendonça",
+        "content": "Av. Historiador Rubens de Mendonça, 42/43 , Alvorada Cuiabá, MT",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976988,
+        "title": "Goiabeiras",
+        "content": "Avenida Senador Filinto Müller, 28 , Goiabeiras Cuiabá, MT",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "16h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976986,
+        "title": "Parangaba",
+        "content": "Avenida Doutor Silas Munguba, 643 , Parangaba Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976985,
+        "title": "Messejana",
+        "content": "Rua Manuel Castelo Branco, 352 , Messejana Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976983,
+        "title": "Dom Lustosa",
+        "content": "Rua Coronel Matos Dourado, 1280 , Dom Lustosa Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976981,
+        "title": "Vila Peri",
+        "content": "Rua Waldir Diogo, 1138 , Manuel Sátiro Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976980,
+        "title": "Via Sul Shopping",
+        "content": "Av. Washington Soares, 4335 , Edson Queiroz Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976979,
+        "title": "Cocó",
+        "content": "Rua Doutor Gilberto Studart, 155 , Cocó Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976978,
+        "title": "Barbosa de Freitas",
+        "content": "Av. Santos Dumont, 3060 (loja 12 a 20) , Aldeota Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976977,
+        "title": "Barão de Studart",
+        "content": "Av. Barão de Studart, 2200 , Joaquim Távora Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 17h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976976,
+        "title": "Washington Soares",
+        "content": "Av. Washington Soares, 1550 , Edson Queiroz Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976975,
+        "title": "Vicente Linhares",
+        "content": "Rua Tibúrcio Cavalcante, 1885 , Meireles Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976974,
+        "title": "Papicu",
+        "content": "Av. Eng. Santana Jr., 699 , Papicu Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976973,
+        "title": "North Shopping",
+        "content": "Avenida Bezerra de Menezes, 2450 , São Gerardo Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "11h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "11h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976972,
+        "title": "Riomar Kennedy",
+        "content": "Avenida Sargento Hermínio Sampaio 3.100 , Presidente Kennedy Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976971,
+        "title": "Montese",
+        "content": "Avenida dos Expedicionários, 4444 , Benfica Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976970,
+        "title": "Meireles",
+        "content": "Avenida Senador Virgílio Távora, 303 , Meireles Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976969,
+        "title": "Oliveira Paiva",
+        "content": "Avenida Oliveira Paiva, 1350 , Cidade dos Funcionários Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976968,
+        "title": "North Shopping Jóquei",
+        "content": "Avenida Lineu Machado, 419 , Jóquei Clube Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "11h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "11h às 20h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976967,
+        "title": "Iracema",
+        "content": "Rua Carlos Vasconcelos, 284 , Meireles Fortaleza, CE",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976966,
+        "title": "Cariacica",
+        "content": "Avenida Expedito Garcia, 281 , Campo Grande Cariacica, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976962,
+        "title": "Praia do Canto II",
+        "content": "Rua Joaquim Lírio, 455 , Praia do Canto Vitória, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976961,
+        "title": "Praia do Canto I",
+        "content": "Rua Joaquim Lírio, 455 , Praia do Canto Vitória, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976960,
+        "title": "Reta da Penha",
+        "content": "Reta da Penha, 2150 , Barro Vermelho Vitória, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976959,
+        "title": "Serra",
+        "content": "Avenida BNH, 57 , Parque Residencial Laranjeiras Serra, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976958,
+        "title": "Shopping Vila Velha",
+        "content": "Av. Luciano das Neves 2418 , Vila Velha, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976957,
+        "title": "Centro Vila Velha",
+        "content": "Rua Quinze de Novembro, 1123 , Centro Vila Velha, ES",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. às Sex.",
+            "hour": "06h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976956,
+        "title": "Buriti Shopping",
+        "content": "Avenida Rio Verde, s/n , Jardim Nova Era Aparecida de Goiânia, GO",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "07h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "08h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976953,
+        "title": "Macapá",
+        "content": "Rua Leopoldo Machado, 2334 , Central Macapá, AP",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "15h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976952,
+        "title": "Presidente Costa e Silva",
+        "content": "Av. Presidente costa e Silva, 808 , Boqueirão Praia Grande, SP Obs: Unidade fechará de 1h em 1h para limpeza.",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "not_allowed",
+        "locker_room": "allowed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 09h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "15h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "09h às 16h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          },
+          {
+            "weekdays": "Obs.:",
+            "hour": "*Unidade fechará de 1h em 1h para limpeza."
+          }
+        ]
+      },
+      {
+        "id": 10998878976949,
+        "title": "Suzano",
+        "content": "Rua Sete de Setembro, 555 , Cidade Cruzeiro do Sul Suzano, SP",
+        "opened": true,
+        "mask": "required",
+        "towel": "recommended",
+        "fountain": "partial",
+        "locker_room": "closed",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "07h às 12h"
+          },
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "17h às 22h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "12h às 18h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "12h às 16h"
+          }
+        ]
+      },
+      {
+        "id": 10998878976948,
+        "title": "Moreira César",
+        "content": "Rua Coronel Moreira César, 26 , Icaraí Niterói, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "07h às 14h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 10998878976947,
+        "title": "Ingá",
+        "content": "Rua Tiradentes,155 , Inga Niterói, RJ",
+        "opened": true,
+        "mask": "required",
+        "towel": "required",
+        "fountain": "partial",
+        "locker_room": "partial",
+        "schedules": [
+          {
+            "weekdays": "Seg. à Sex.",
+            "hour": "06h às 21h"
+          },
+          {
+            "weekdays": "Sáb.",
+            "hour": "07h às 14h"
+          },
+          {
+            "weekdays": "Dom.",
+            "hour": "Fechada"
+          }
+        ]
+      },
+      {
+        "id": 1099887897633,
+        "title": "Anchieta",
+        "street": "Avenida Francisco Deslandes, 900",
+        "region": "Anchieta",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897682,
+        "title": "Aracaju",
+        "street": "Av. Deputado Pedro Valadares, 890 ",
+        "region": "Jardins Aracaju",
+        "city_name": "Aracaju",
+        "state_name": "Sergipe",
+        "uf": "SE"
+      },
+      {
+        "id": 109988789768,
+        "title": "Assis Brasil",
+        "street": "Avenida Assis Brasil, 3999",
+        "region": "São Sebastião",
+        "city_name": "Porto Alegre",
+        "state_name": "Rio Grande do Sul",
+        "uf": "RS"
+      },
+      {
+        "id": 1099887897642,
+        "title": "Avenida dos Mananciais",
+        "street": "Avenida dos Mananciais, 721",
+        "region": "Taquara",
+        "city_name": "Rio de Janeiro",
+        "state_name": "Rio de Janeiro",
+        "uf": "RJ"
+      },
+      {
+        "id": 1099887897664,
+        "title": "Avenida JK",
+        "street": "Av. Presidente Juscelino Kubitschek de Oliveira, 400",
+        "region": "Jardim Maracanã",
+        "city_name": "São José do Rio Preto",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897604,
+        "title": "Avenida Prudente de Morais",
+        "street": "Avenida Prudente de Morais, 513",
+        "region": "Santo Antônio",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897632,
+        "title": "Barreiro",
+        "street": "Avenida Afonso Vaz de Melo, 640",
+        "region": "Barreiro",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897627,
+        "title": "BH Shopping",
+        "street": "BR-356, 3049",
+        "region": "Belvedere",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897621,
+        "title": "Boqueirão",
+        "street": "Rua Maestro Carlos Frank, 1869",
+        "region": "Alto Boqueirão",
+        "city_name": "Curitiba",
+        "state_name": "Paraná",
+        "uf": "PR"
+      },
+      {
+        "id": 1099887897625,
+        "title": "Buritis",
+        "street": "Av. Prof. Mário Werneck, 1326",
+        "region": "Estoril",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 109988789765,
+        "title": "Cambuí I",
+        "street": "Rua Barreto Leme,1822",
+        "region": "Cambui",
+        "city_name": "Campinas",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897668,
+        "title": "Castelo",
+        "street": "Avenida Presidente Tancredo Neves, 2403",
+        "region": "Vila Paquetá",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897648,
+        "title": "Centro",
+        "street": "Avenida Amazonas, 303",
+        "region": "Centro",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897619,
+        "title": "Centro",
+        "street": "Rua Coronel Spinola de Castro, 2865",
+        "region": "Centro",
+        "city_name": "São José do Rio Preto",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897619,
+        "title": "Cláudio Manoel",
+        "street": "Rua Cláudio Manoel, 36",
+        "region": "Funcionários",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897645,
+        "title": "Conselheiro Aguiar I",
+        "street": "Avenida Conselheiro Aguiar, 2216",
+        "region": "Boa Viagem",
+        "city_name": "Recife",
+        "state_name": "Pernambuco",
+        "uf": "PE"
+      },
+      {
+        "id": 1099887897670,
+        "title": "Contagem",
+        "street": "Avenida João César de Oliveira, 1275",
+        "region": "Eldorado",
+        "city_name": "Contagem",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 10998878976054,
+        "title": "Digital",
+        "street": "Avenida Paulista",
+        "region": "Bela Vista",
+        "city_name": "São Paulo",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 109988789765,
+        "title": "Downtown",
+        "street": "Avenida das Américas, 500, Bloco 15, loja 108",
+        "region": "Barra da Tijuca",
+        "city_name": "Rio de Janeiro",
+        "state_name": "Rio de Janeiro",
+        "uf": "RJ"
+      },
+      {
+        "id": 1099887897692,
+        "title": "Duque de Caxias",
+        "street": "R. Professor José de Souza, 1216",
+        "region": "Jardim Vinte e Cinco de Agosto",
+        "city_name": "Duque de Caxias",
+        "state_name": "Rio de Janeiro",
+        "uf": "RJ"
+      },
+      {
+        "id": 1099887897694,
+        "title": "Estação BH",
+        "street": "Avenida Cristiano Machado, 11833",
+        "region": "Vila Cloris",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897683,
+        "title": "Extra Minas",
+        "street": "Av. Cristiano Machado, 4000",
+        "region": "União",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897639,
+        "title": "Franca",
+        "street": "Avenida Doutor Ismael Alonso Y. Alonso, 500",
+        "region": "Bairro Jardim Veneza",
+        "city_name": "Franca",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 109988789765,
+        "title": "Granja Viana Km 21",
+        "street": "Rodovia Raposo Tavares Km 21, 21.350",
+        "region": "Lageadinho",
+        "city_name": "Cotia",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897682,
+        "title": "Gutierrez ",
+        "street": "Rua André Cavalcanti, 190",
+        "region": "Gutierrez",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897683,
+        "title": "Independência",
+        "street": "Av. Barão do Rio Branco, 2805",
+        "region": "Centro",
+        "city_name": "Juiz de Fora",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897608,
+        "title": "ItaúPower Shopping",
+        "street": "Av. General David Sarnoff, 5160",
+        "region": "Cidade Industrial",
+        "city_name": "Contagem",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897685,
+        "title": "Juazeiro do Norte",
+        "street": "Av. Padre Cícero, 2241",
+        "region": "Triângulo",
+        "city_name": "Juazeiro do Norte",
+        "state_name": "Ceará",
+        "uf": "CE"
+      },
+      {
+        "id": 1099887897670,
+        "title": "Jundiaí Shopping",
+        "street": "Avenida Nove de Julho, 3333",
+        "region": "Anhangabaú",
+        "city_name": "Jundiaí",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897632,
+        "title": "Luxemburgo",
+        "street": "Rua Guaicuí, 600",
+        "region": "Coração de Jesus",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 109988789760,
+        "title": "Miguel de Frias",
+        "street": "Rua Miguel de Frias, 198",
+        "region": "Icaraí",
+        "city_name": "Niterói",
+        "state_name": "Rio de Janeiro",
+        "uf": "RJ"
+      },
+      {
+        "id": 1099887897661,
+        "title": "Minas Shopping",
+        "street": "Avenida Cristiano Machado, 4000",
+        "region": "União",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897603,
+        "title": "Nova Suissa",
+        "street": "Av. Silva Lobo, 770",
+        "region": "Nova Suissa",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897669,
+        "title": "Pampulha",
+        "street": "Av. Portugal, 3450",
+        "region": "Jardim Atlântico",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897646,
+        "title": "Portal Shopping",
+        "street": "Av. Anhanguera, 14.404",
+        "region": "Capuava",
+        "city_name": "Goiânia",
+        "state_name": "Goiás",
+        "uf": "GO"
+      },
+      {
+        "id": 1099887897630,
+        "title": "Rio Branco",
+        "street": "Rua Ladislau Ferreira, 1100",
+        "region": "Abrahão Alab",
+        "city_name": "Rio Branco",
+        "state_name": "Acre",
+        "uf": "AC"
+      },
+      {
+        "id": 1099887897643,
+        "title": "Rua Assunção",
+        "street": "Rua da Assunção, 665",
+        "region": "José Bonifácio",
+        "city_name": "Fortaleza",
+        "state_name": "Ceará",
+        "uf": "CE"
+      },
+      {
+        "id": 1099887897668,
+        "title": "Rua do Ouvidor",
+        "street": "Rua do Ouvidor, 186-A",
+        "region": "Centro",
+        "city_name": "Rio de Janeiro",
+        "state_name": "Rio de Janeiro",
+        "uf": "RJ"
+      },
+      {
+        "id": 1099887897617,
+        "title": "Rua Quinze de Novembro",
+        "street": "Rua Quinze de Novembro, 1.000",
+        "region": "Centro",
+        "city_name": "Jundiaí",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897690,
+        "title": "Rua Rio de Janeiro",
+        "street": "Rua Rio de Janeiro, 1893",
+        "region": "Lourdes",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897612,
+        "title": "Rua Sergipe",
+        "street": "Rua Sergipe, 1208",
+        "region": "Savassi",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897617,
+        "title": "Savassi",
+        "street": "Rua Fernandes Tourinho, 195",
+        "region": "Funcionários",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897658,
+        "title": "Shopping Cidade Norte",
+        "street": "Avenida Alfredo Antonio de Oliveira, 2077",
+        "region": "Jardim Planalto",
+        "city_name": "São José do Rio Preto",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897666,
+        "title": "Shopping Del Rey",
+        "street": "Avenida Presidente Carlos Luz, 3001",
+        "region": "Caiçara",
+        "city_name": "Belo Horizonte",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897660,
+        "title": "Sobral",
+        "street": "Av. Monsenhor Aloisio Pinto, 300 ",
+        "region": "Dom Expedito",
+        "city_name": "Sobral",
+        "state_name": "Ceará",
+        "uf": "CE"
+      },
+      {
+        "id": 1099887897605,
+        "title": "Sobral antiga",
+        "street": "Avenida Monsenhor Aloísio Pinto, 300",
+        "region": "Dom Expedito",
+        "city_name": "Sobral",
+        "state_name": "Ceará",
+        "uf": "CE"
+      },
+      {
+        "id": 1099887897666,
+        "title": "Spazio Ouro Verde",
+        "street": "Avenida Ruy Rodrigues, 3900",
+        "region": "Parque Universitário de Viracopos",
+        "city_name": "Campinas",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      },
+      {
+        "id": 1099887897658,
+        "title": "Uberaba",
+        "street": "Av. Santos Dumont, 1000",
+        "region": "Santos Dumont",
+        "city_name": "Uberaba",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897674,
+        "title": "Uberlândia",
+        "street": "Av. Rondon Pacheco 920",
+        "region": "Vila Saraiva",
+        "city_name": "Uberlândia",
+        "state_name": "Minas Gerais",
+        "uf": "MG"
+      },
+      {
+        "id": 1099887897634,
+        "title": "Via Norte",
+        "street": "Av. Arquiteto José Henrique Bento Rodrigues, 3760",
+        "region": "Monte das Oliveiras",
+        "city_name": "Manaus",
+        "state_name": "Amazonas",
+        "uf": "AM"
+      },
+      {
+        "id": 109988789769,
+        "title": "Vila Carrão",
+        "street": "Av. Guilherme Giorgi, 1460",
+        "region": "Vila Carrão",
+        "city_name": "São Paulo",
+        "state_name": "São Paulo",
+        "uf": "SP"
+      }
+    ],
+    "wp_total": 116,
+    "total": 167,
+    "success": true
+  }

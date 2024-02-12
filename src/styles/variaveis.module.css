@@ -1,0 +1,32 @@
+/* Colors */
+
+:root {
+    --dark-grey: #333333;
+    --light-grey: #808080;
+    --borda-grey: #cdcdcd;
+    --legenda-grey: #e4e4e4;
+    --locais-grey: #eae8e8;
+    --yellow: #FFB612;
+    --red: #dc0a17;
+    --green: #2FC022;
+}
+
+@font-face {
+    font-family: 'gotham-black';
+    src: url('../../public/material/fonts/gotham-black.woff2');
+}
+
+@font-face {
+    font-family: 'gotham-bold';
+    src: url('../../public/material/fonts/gotham-bold.woff2');
+}
+
+@font-face {
+    font-family: 'gotham-light';
+    src: url('../../public/material/fonts/gotham-light.woff2');
+}
+
+@font-face {
+    font-family: 'gotham-book';
+    src: url('../../public/material/fonts/gotham-book.woff2');
+}

@@ -1,0 +1,201 @@
+@import url('../../styles/variaveis.module.css');
+
+.containerForm {
+    border: 3px solid;
+    border-color: var(--borda-grey);
+    padding: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 26px;
+    border-radius: 10px;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: var(--light-grey);
+    font-family: 'gotham-book';
+    margin-bottom: 20px;
+}
+
+.img img {
+    width: 16%;
+}
+
+.containerForm h1 {
+    font-size: 36px;
+    font-family: 'gotham-light';
+    color: var(--light-grey);
+    border-bottom: 1px solid;
+    border-color: var(--borda-grey);
+    padding-bottom: 14px;
+    margin-bottom: 20px;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+    border-color: var(--borda-grey);
+    padding-bottom: 14px;
+    margin-bottom: 24px;
+}
+
+.inputs div {
+    display: flex;
+    align-items: center;
+}
+
+.inputs .input { 
+    width: 40px;
+    height: 30px;
+    border: 3px solid var(--dark-grey);
+}
+
+.inputs label {
+    font-size: 20px;
+    font-family: 'gotham-book';
+    color: var(--light-grey);
+}
+
+.inputs span {
+    font-size: 20px;
+    color: var(--light-grey);
+    font-family: 'gotham-book';
+}
+
+.containerResults {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    gap: 20px;
+}
+
+.inputcheck {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.inputcheck input {
+    width: 40px;
+    height: 30px;
+}
+
+.inputcheck label {
+    font-size: 19px;
+    font-family: 'gotham-book';
+    color: var(--dark-grey);
+}
+
+.results {
+    font-size: 20px;
+    font-family: 'gotham-book';
+    color: var(--dark-grey);
+    text-align: center;
+}
+
+.buttom {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.buttom .btn_submit {
+    background-color: var(--yellow);
+    padding: 26px;
+    border: none;
+    font-size: 22px;
+    font-family: 'gotham-bold';
+    border-radius: 6px;
+}
+
+.buttom .btn_reset {
+    background-color: white;
+    font-size: 22px;
+    font-family: 'gotham-bold';
+    border-radius: 6px;
+    padding: 24px;
+    border: 1px solid var(--light-grey);
+}
+
+@media (min-width: 1200px) {
+    .containerForm {
+        width: 1190px;
+        padding: 40px;
+        border: 5px solid var(--borda-grey);
+    }
+
+    .img {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+
+    .img img {
+        width: 3%;
+    }
+
+    .containerForm h1 {
+        font-size: 40px;
+        padding-bottom: 24px;
+        margin-bottom: 30px;
+    }
+
+    .inputs {
+        padding-bottom: 20px;
+        margin-bottom: 40px;
+    }
+
+    .inputs .input  {
+        width: 50px;
+        height: 40px;
+        margin-right: 10px;
+    }
+
+    .inputs label {
+        font-size: 30px;
+    }
+
+    .inputs span {
+        font-size: 30px;
+    }
+
+    .containerResults {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .inputcheck input {
+        width: 50px;
+        height: 40px;
+    }
+
+    .inputcheck label {
+        font-size: 24px;
+    }
+
+    .results {
+        font-size: 24px;
+    }
+
+    .buttom {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .buttom .btn_submit {
+        width: 450px;
+        padding: 30px;
+    }
+
+    .buttom .btn_reset {
+        width: 450px;
+        padding: 30px;
+    }
+}

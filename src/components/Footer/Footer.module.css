@@ -1,0 +1,36 @@
+@import url('../../styles/variaveis.module.css');
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--dark-grey);
+    height: 200px;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.container img {
+    width: 50%;
+}
+
+.container p {
+    font-family: 'gotham-book';
+    color: white;
+    font-size: 20px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        height: 400px;
+    }
+
+    .container img  {
+        width: 20%;
+    }
+
+    .container p {
+        font-size: 30px;
+    }
+}
